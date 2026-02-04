@@ -4,7 +4,7 @@
 ![OOP](https://img.shields.io/badge/OOP-Polymorphie%20%7C%20Vererbung%20%7C%20RAII-success)
 ![Pattern](https://img.shields.io/badge/Design%20Patterns-Strategy%20%7C%20Exceptions-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **Kurzbeschreibung:**  
 Dieses Projekt implementiert eine objektorientierte **Verkehrs-/Fahrzeug-Simulation** in **C++**. Fahrzeuge bewegen sich auf **Wegen**, werden an **Kreuzungen** weitergeleitet und können abhängig vom **Verhalten** (z. B. *Fahren*, *Parken*) unterschiedliche Aktionen ausführen. Ereignisse wie *Streckenende* und *Losfahren* werden über eigene **Ausnahmeklassen** modelliert und verarbeitet.
