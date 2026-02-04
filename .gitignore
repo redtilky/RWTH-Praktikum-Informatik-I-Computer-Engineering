@@ -1,0 +1,11 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.obj
+*.exe
+
+# IDE
+.vscode/
+*.user
+*.suo
